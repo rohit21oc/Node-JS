@@ -1,0 +1,153 @@
+Telegram Channel @Waqas_mod
+
+https://t.me/waqas_mod
+
+
+
+
+[
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1729490384.94983,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_puid",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "user-YBtDV2pSChX6ede8xt3xLqkv:1728885586-oSVaKM%2BgumukSOMhSfN4nYu7zNxd2vh1AMyPe66kYkY%3D"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1736661549.238612,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.session-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..26ALG0um0v_vQuoI.8hq3JgEP7Fn3gQ7Ky-Ct6Ea2Q697f0heBy1PIeGvS3g_XWOrfC_hG6HU1Uqd1M2Qxt35VDr7AjsShyA428HUTOa09o_QH21_3tdIEx2j0OHoZu2nFtOKUDxB603PMKwKSytZU4yZomAzJNIlypwb1z4cRazwO2bUA2LpNfXas2py8vbKigETR_He0pbJCoaczyHQ57alvhUkEIcB_kVIvqtqP4OpcECcBJT6A6Ozg1vQrlta_XJfyOS751KTAT1KDn245uhlsK4SCB7_RrfbrTw_OyKBOSR2Kjv8nY-Tikf7DNWllz2ZoDsNzAtMqWqUtx8fA48TtjTXqQIXGlgDXxRtTLirukOdMV5GdwtrlvOFjXbBSrnFVGzzNWQDpVGZrZc1jtwJ6e0Xx4IAYXUp8JvveHhQf5ZxKP2U8aM1Nc9RIzivrce_i90xx5PiOGpdLBWFQo5lLl5qAC4b8hIi7sdSB_WcDYxpBQEa0fktzSzrpEoozVFAUu36t6YHqx-UNDDb_-e8_4TFyNwCe6Taf-YjiAGhgfvGE3c565CVn1IkQ61XKCsqdxFZkUzRJRGZ-YPiN73ag9BgbCOsKRMhryiRQjWP5Ua-sGCWLujuSp8HWNtRwlfG8oK4qqlfS2W88Qz4MId_DMY6Qdt_tyRehdvfGO_4YQtagIRbBLsU47R8sxeaDie3xSxaegD9cb_9pJJ-pQKxEdS1p3sWZddQ1moSM8UYhDtrm71lo3EVoiARBPVSoOAEiWWxQyMpoHuNQrgSuiJB7Cm0iK28H5_DsgRETnNHseqyZU5Wu4juSScAKE-n_NNuUr7MVoOhxTfqMw9DTed-KNGMmM8IbahjgNeiDpp29okdOtikc5USYb3H_mHbW-JpNSnQ6YFNKYr0t1QWt5m8uS-lYdpp4MOToQfFZRseff_RlQat9r3ZDyvCP3elHpBkeNd2EPSZjWoJJvp5r3YIw-nm7ux1fOEzfjNwWFBKJWRK7gPYMlgXtLFhIferCAqfAh-TztpBnN-eEK324_mxDS9k1WsvgcwWpUEq3fQ4lhXjkwL_y80gT9yzrH2M0QKv9YrvTudQK5obkSaMXwylAgFSV3GvmMNh-1p662jJ_zOP0skUBxcIM8F56xyHZJpc2WZJYH1Su34euY3XFS8haEgAirQJNfWpsLU-06WzmahbCYZKFSwesjrQ4WgaQd-3w-GbOFuEE6S0UXKjOiMs6IiH2m9MikhNIBQxeDCd2VGBBJvhH8bsOz6r5zIGlNT9msy5-ZsJHhRb2v7U87gs-gpWKpgjAw12YvEP2JolWWLQSNy443Y_t2NlZgcJxtzIEP7uDl3CLxaP3743DXdNLUPTFjwUFvIqAykCa628p6wT64bKAAkDVYgSqMmxSXkGPfiENAIIzA0RCdlnLfMsk_tW71t7ZmLRbbhn67zSLH63A_HKgFlz-QjFikUEQz_m9zLuPUM88H8T8ddczYqLjerXrTPA_rZwt4_jhMnBL5IT6ywN1MKE_v6ydOkFPcjQeTUjjYJmsalpfRYW-gtCYgWcjeT6Ak2nJ5AyyFHXZj9RB2tDX0-x_Ojwt_5sHpJpX1Lje8y8fyYPev6GdmF_1cPc0SJxlplii5moo48mCzW47GB6IZhGcm7VHN-kIMMfmaFdenNlL3uTo9TPwERwXlnDv28H6LEWr_aBmuzbt00yot31jM9Qc81ZW5w724vuLRz7hXFxMRlcexSL62-QHR8_dO0Z3FWLj2XkcRqqpwycZal4dd70bZZrPa2_npo1gWOjtyF3MNAnr8P_Y0BqB1aribj_CZVavQNPOLo2ICZOlrErb3XJL1nHyYAX1X1lf9cG6FeOtlnilQulal9Q9dL4-NLFstrX6GooYm6f0UPqeF8okKmsZbnNJMFSdfa_G4HegvD5J3oV4y3pvpfCVCBJqOyvLgmOuuuxK7fx1SzDLj_qb319pgWu_FiNCiRFPewQnI9_5aI-2UL7YJCqoEoTtgroUoE05ggGpudLILdb7qLTe3IN8tu50vM9hDltY-vlQSkezI99vffhzetZ0nAEAhZxzfX4kGST65M3LKVd1YfwFVaDHjBgKJOR-ialo36BOVAtfPhDOC9FOQQRigoKrzcC2B4GdB4Qgmiat_l6ORlW_kBsMPObvCfKlg6heTO31U0jFPQ8lQj0GOh7UEBPujc873nBjCQ4RmbClgiOh9hOIT00PkcP6HDoCoVinV8hIHbKLBTNFNUg3h9_givh4oTlrZ3dRX-i2JmS4OUdl07QwRobX4lq79NzPUSQth-Yb6H82DwIKSJQkWVp4QXF9L6P82rwPo31ge4S8NvniNbXoM3A4Jfdm2IZLQMv5TgZrQAgTTj2J1r0hDpIzKy1YwnYtPWx37DkydnMduEwqeE8DkGGvEXeFoZiStMCjdWGfIsolhuM7tUtMqkx-o1Wxq_AgtsqWXQLh7zwcWIDr7VxwtgLxMWQyX80Ii_nGYKKN8Xu1V88uQ07FlEawFF04miVD-uzyBp5x8oL3MdchNkHMgjEMnKawGpI7Cenk7qserATYFWFAnaVfKJVaX0zQTuo-vU8tI0LkMQZwYUWCQIP3f5lp1Ij_qxpk08IJqk_B38wg4gsFvtXxhuu0rdBDneTq6iqNMSfTPNFhci2JKc5SSiG5wMqDr-KuwuMgubNWBGtdqjXsgiia3Meq6etY4gGB6ut5UBYXZiFl-s1hydFYMSo_IvBCRWbdjs2VlyMG6mDxeXZWb-iu1Lj6WFujJ_vNObJGqyAyRboBZbFBnRT1mEmla7jFdgZ9h4pXSVlhTO0B7Tel5Z8gb7g8DSqIFPVolhJRO8VIE0F0VdWQ1Aj7JKH4VCRY5wC73a31zBtXJVnnZF7l-JzIDG97MMmmlu-QyKX4SrV5Lxr03W6KhoyYqM6oD13G2fz2BFedKz8lFMwyINu11IqbM8lNh75HgPbBnqEUB5RZ735GikwH0254yBORWYUopAlWcmoh_h3NI9EojNbQqrDNa-UYibjLwbW-fptLLaAPRLluQi925K6bkh6u3wDAUf74joJVDjp-r0gYs_t72Ium5uBcyXJntkk7Q.QQx5Bz1WMKS85gqk55nHUg"
+    },
+    {
+        "domain": "chatgpt.com",
+        "expirationDate": 1728887355.565616,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__cflb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0H28vzvP5FJafnkHxihH9MhBTzka7v8zAWroaeRmNs7"
+    },
+    {
+        "domain": "chatgpt.com",
+        "expirationDate": 1759989549.239886,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "oai-hlib",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": "chatgpt.com",
+        "expirationDate": 1728886560,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_dd_s",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "rum=0&expire=1728886550736&logs=1&id=1d382fc5-b6be-4428-977f-e09d09c90def&created=1728885505241"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1728887301.394703,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "XDs2W4dpJ9FE9j5V.VAsODH9Li61w6FE7YsRQGn94No-1728885503-1.0.1.1-ywLy8fqb4RIi.cBPpXG9PKx3uoxhhYdZBxRM2bDmCdJ217K93N.hdKvZuvPwfi4IS7rEjpZrMuI0JuhrW6isEA"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_cfuvid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "vrucumx.HjY42__uilCqUubppYOJreWfGwF12EAsmfE-1728885503372-0.0.1.1-604800000"
+    },
+    {
+        "domain": "chatgpt.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Host-next-auth.csrf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "bfed5928f40fce519630064f34c4ca47c0b3693e42c2185048bacec2840f6365%7C07894189d002bc2989a642a8726cb90edddd6443b5508e287f180c79f018729e"
+    },
+    {
+        "domain": "chatgpt.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.callback-url",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "https%3A%2F%2Fchat-onramp.unified-9.api.openai.com"
+    },
+    {
+        "domain": ".chatgpt.com",
+        "expirationDate": 1759989501.970313,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "oai-did",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "9bb8ca67-d461-4836-8b45-e805ae020f67"
+    },
+    {
+        "domain": "chatgpt.com",
+        "expirationDate": 1763445550.677066,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "oai-nav-state",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    }
+]
+
+
+Telegram Channel @Waqas_Mod
+https://t.me/waqas_Mod
